@@ -5,6 +5,9 @@ A collection of repositories realted to modules at the Hochschlue Luzern: Inform
 This repository is inspired by the [awesome-lists]((https://github.com/sindresorhus/awesome)
 ) project.
 
+## Contributing
+You're welcome to contribute to this list! Create a pull request and it will be merged as long as it follows the [CONTRIBUTING](CONTRIBUTING.md) guidelines.
+
 ## Table of Contents
 - [Awesome HSLU](#awesome-hslu)
     - [AISO](#aiso)
@@ -18,15 +21,18 @@ This repository is inspired by the [awesome-lists]((https://github.com/sindresor
 ### AISO
 *AI Search and Optimization*
 
+
+
 ### GAMEDEV
 *Game Development (with Unity)*
 
 - HS18
-    - [Jackle1996/NetworkGame](https://github.com/Jackle1996/NetworkGame) - local multiplayter 3rd person shooter
     - [eddex/flappy-game](https://github.com/eddex/flappy-game) - a game like flappy bird
+    - [Jackle1996/NetworkGame](https://github.com/Jackle1996/NetworkGame) - local multiplayter 3rd person shooter
+    
 
 ### IPCV
-*Image Processing & Visual Computing*
+*Image Processing & Computer Vision*
 
 - FS19
     - [Jackle1996/IPCV-Modul](https://github.com/Jackle1996/IPCV-Modul) - exercises (incomplete)
