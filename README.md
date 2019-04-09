@@ -41,7 +41,9 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
 
 ### ML
 *Machine Learning*
-* [eddex/machine-learning](https://github.com/eddex/machine-learning) - exercises (incomplete)
+
+- FS18
+    - [eddex/machine-learning](https://github.com/eddex/machine-learning) - exercises (incomplete)
 
 ### MOBPRO
 *Mobile Programming*
