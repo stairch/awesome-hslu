@@ -2,11 +2,13 @@
 A collection of repositories realted to modules at the Hochschlue Luzern: Informatik (HSLU) :mortar_board:
 
 ## [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-This repository is inspired by the [awesome-lists]((https://github.com/sindresorhus/awesome)
-) project.
+This repository is inspired by the [awesome-lists](https://github.com/sindresorhus/awesome) project.
 
 ## Contributing
 You're welcome to contribute to this list! Create a pull request and it will be merged as long as it follows the [CONTRIBUTING](CONTRIBUTING.md) guidelines.
+
+## License ![license](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-2.png)
+This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for more info.
 
 ## Table of Contents
 - [Awesome HSLU](#awesome-hslu)
