@@ -22,7 +22,7 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
     - [ROBLAB](#roblab)
     - [WEBTEC](#webtec)
     - [XML](#xml)
-- [Other]
+- [Other](#other)
     - [HackZürich 2018](#hackzürich-2018)
     - [STAIR HackDay 2016](#stair-hackday-2016)
     - [STAIR HackDay 2018](#stair-hackday-2018)
