@@ -1,5 +1,5 @@
 # Awesome-HSLU
-A collection of repositories realted to modules at the Hochschlue Luzern: Informatik (HSLU) :mortar_board:
+A collection of repositories containing projects, exercises and summaries done at the Hochschlue Luzern: Informatik (HSLU) :mortar_board:
 
 ## [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 This repository is inspired by the [awesome-lists](https://github.com/sindresorhus/awesome) project.
