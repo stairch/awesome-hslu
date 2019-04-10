@@ -1,11 +1,11 @@
 # Awesome-HSLU
-A collection of repositories containing projects, exercises and summaries done at the Hochschlue Luzern: Informatik (HSLU) :mortar_board:
+A collection of projects, exercises, summaries and more done at the Hochschlue Luzern: Informatik (HSLU) :mortar_board:
 
 ## [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 This repository is inspired by the [awesome-lists](https://github.com/sindresorhus/awesome) project.
 
 ## Contributing
-You're welcome to contribute to this list! Create a pull request and it will be merged as long as it follows the [CONTRIBUTING](CONTRIBUTING.md) guidelines.
+You're welcome to contribute to this list! Please read the [CONTRIBUTING](CONTRIBUTING.md) guidelines to get started.
 
 ## License ![license](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-2.png)
 This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for more info.
