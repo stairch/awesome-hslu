@@ -62,6 +62,7 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
 *Mobile Programming*
 - FS19
     - [eddex/mobpro](https://github.com/eddex/mobpro/) - exercises
+    - [eddex/jumpcutter-android](https://github.com/eddex/jumpcutter-android) - project code
 
 ### MTOP
 *Mainframe Topics (Blockwoche)*
