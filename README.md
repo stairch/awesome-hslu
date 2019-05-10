@@ -12,13 +12,16 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
 ## Table of Contents
 - [HSLU Modules](#hslu-modules)
     - [AISO](#aiso)
+    - [CG](#cg)
     - [DBS](#dbs)
+    - [DASB](#dasb)
     - [GAMEDEV](#gamedev)
     - [IPCV](#ipcv)
     - [ML](#ml)
     - [MOBPRO](#mobpro)
     - [MTOP](#mtop)
     - [ROBLAB](#roblab)
+    - [STAT](#stat)
     - [WEBTEC](#webtec)
     - [XML](#xml)
 - [Other](#other)
@@ -31,12 +34,27 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
 ### AISO
 *AI Search and Optimization*
 
+### CG
+*Computer Graphics*
+
+- HS18
+    - [tschibu/hslu-cg-houdini](https://github.com/tschibu/hslu-cg-houdini) - project code
+    - [tschibu/hslu-cg-math](https://github.com/tschibu/hslu-cg-math) - exercises
+    - [tschibu/hslu-cg-opengl](https://github.com/tschibu/hslu-cg-opengl) - exercises
+
 ### DBS
 *Datenbanksysteme*
 
 - FS18
     - [timofurrer/dbs-project](https://github.com/timofurrer/dbs-project) - project code
     - [timofurrer/hslu-dbs](https://github.com/timofurrer/hslu-dbs) - exercises
+
+### DASB
+*Data Science Basics*
+
+- HS18
+    - [tschibu/hslu-dasb-project](https://github.com/tschibu/hslu-dasb-project) - project code
+
 
 ### GAMEDEV
 *Game Development (with Unity)*
@@ -51,6 +69,7 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
 
 - FS19
     - [Jackle1996/IPCV-Modul](https://github.com/Jackle1996/IPCV-Modul) - exercises (incomplete)
+    - [tschibu/hslu-ipcv-exercises](https://github.com/tschibu/hslu-ipcv-exercises) - exercises
 
 ### ML
 *Machine Learning*
@@ -71,16 +90,24 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
     - [timofurrer/hslu-mtop-thesis](https://github.com/timofurrer/hslu-mtop-thesis) - thesis
 
 ### ROBLAB
-*Robotics Lab*
+*Cognitive Robotics Lab*
 
 - HS18
     - [timofurrer/hslu-roblab-behavior](https://github.com/timofurrer/hslu-roblab-behavior) - project code
+    - [tschibu/hslu-roblab-floorguide](https://github.com/tschibu/hslu-roblab-floorguide) - project code
+
+### STAT
+*Statistics for Data Science*
+
+- FS19
+    - [tschibu/hslu-stat-exercises](https://github.com/tschibu/hslu-stat-exercises) - exercises
 
 ### WEBTEC
 *Web Technologies*
 
 - HS17
     - [dev-jan/hslu-webtec](https://github.com/dev-jan/hslu-webtec) - project code
+    - [tschibu/tschibu.github.io](https://github.com/tschibu/tschibu.github.io) - project code
 - HS16
     - [eddex/WebTec](https://github.com/eddex/WebTec) - project code
     - [timofurrer/hslu-webtec-testat](https://github.com/timofurrer/hslu-webtec-testat) - project code
