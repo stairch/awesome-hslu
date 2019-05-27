@@ -14,6 +14,8 @@ If you have some spare time you're welcome to integrate some of the repositories
 ### Consistency
 Keep the document consistent. Don't introduce new ways of formatting etc.
 
+If you really, really want to change or add something completely new and innovative that would blow the mind of everyone reading this list, feel free to create an issue so we can discuss the idea. Or just create a pull request, if you're feeling lucky. But bear in mind the words of the mighty Johoho: "Only advanced solutions!"
+
 ### Modules
 1. When adding an new module, make an entry in the *table of contents* at the correct position (alphabetical order).
 2. Add a new section to the document (again, alphabetical order).
