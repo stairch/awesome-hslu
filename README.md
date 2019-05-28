@@ -169,7 +169,7 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
 
 - FS19
     - [eddex/pren2](https://github.com/eddex/pren2) - complete project code
-    - [eddex/signals-dataset](https://github.com/eddex/signals-dataset) - dataset with 5079 images
+    - [eddex/signals-dataset](https://github.com/eddex/signals-dataset) - dataset with 5078 images
     - [FabianGroeger96/cnn-number-detection](https://github.com/FabianGroeger96/cnn-number-detection) - CNN for number detection
 
 
