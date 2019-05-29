@@ -203,6 +203,7 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
 
 - HS17
     - [dev-jan/hslu-webtec](https://github.com/dev-jan/hslu-webtec) - project code
+    - [FallenRoax/WebTec](https://github.com/FallenRoax/WebTec) - project code
     - [tschibu/tschibu.github.io](https://github.com/tschibu/tschibu.github.io) - project code
 - HS16
     - [eddex/WebTec](https://github.com/eddex/WebTec) - project code
