@@ -4,7 +4,9 @@ A collection of projects, exercises, summaries and more done at the Hochschlue L
 This repository is inspired by the [awesome-lists](https://github.com/sindresorhus/awesome) project.
 
 ## Contributing
-You're welcome to contribute to this list! Please read the [CONTRIBUTING](CONTRIBUTING.md) guidelines to get started.
+:rotating_light: Are you an HSLU student and your repos are not in this list? Then please create an issue with the title '`add repos of @<username>`'!
+    
+You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](CONTRIBUTING.md) guidelines to get started.
 
 ## License ![license](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-2.png)
 This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for more info.
