@@ -20,6 +20,7 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
     - [DASB](#dasb)
     - [DMATH](#dmath)
     - [FKOM](#fkom)
+    - [GAMEDES](#gamedes)
     - [GAMEDEV](#gamedev)
     - [IPCV](#ipcv)
     - [IOS](#ios)
@@ -92,6 +93,13 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
 
 - FS18
     - [FabianGroeger96/Informatik_2.Semester-2018](https://github.com/FabianGroeger96/Informatik_2.Semester-2018) - exercises
+
+
+### GAMEDES
+*Game Design*
+
+- FS19
+    - [eddex/GAMEDES-GamePaint](https://github.com/eddex/GAMEDES-GamePaint) - part of final project (MEP)
 
 
 ### GAMEDEV
