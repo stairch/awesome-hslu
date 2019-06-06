@@ -16,6 +16,7 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
     - [AD](#ad)
     - [AISO](#aiso)
     - [CG](#cg)
+    - [CSA](#csa)
     - [DBS](#dbs)
     - [DASB](#dasb)
     - [DMATH](#dmath)
@@ -65,6 +66,13 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
     - [tschibu/hslu-cg-houdini](https://github.com/tschibu/hslu-cg-houdini) - project code
     - [tschibu/hslu-cg-math](https://github.com/tschibu/hslu-cg-math) - exercises
     - [tschibu/hslu-cg-opengl](https://github.com/tschibu/hslu-cg-opengl) - exercises
+
+
+### CSA
+*C# in Action*
+
+- FS17
+    - [wjterry/hslu_csa](https://github.com/wtjerry/hslu_csa/tree/master) - project code
 
 
 ### DBS
