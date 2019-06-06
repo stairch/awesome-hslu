@@ -73,6 +73,8 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
 - FS18
     - [timofurrer/dbs-project](https://github.com/timofurrer/dbs-project) - project code
     - [timofurrer/hslu-dbs](https://github.com/timofurrer/hslu-dbs) - exercises
+- HS17
+    - [wtjerry/sqlToCypher](https://github.com/wtjerry/sqlToCypher) - project code
 
 
 ### DASB
