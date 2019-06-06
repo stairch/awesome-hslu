@@ -31,6 +31,7 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
     - [MOD](#mod)
     - [MTOP](#mtop)
     - [OOP](#oop)
+    - [PCP](#pcp)
     - [PMB](#pmb)
     - [PREN2](#pren2)
     - [ROBLAB](#roblab)
@@ -171,6 +172,13 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
 
 - HS17
     - [FabianGroeger96/oop_exercises](https://github.com/FabianGroeger96/oop_exercises) - exercises
+
+
+### PCP
+*Programming Concepts & Paradigms*
+
+- HS18
+    - [wtjerry/hslu_pcp](https://github.com/wtjerry/hslu_pcp) - exercises
 
 
 ### PMB
