@@ -16,6 +16,7 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
     - [AD](#ad)
     - [AISO](#aiso)
     - [CG](#cg)
+    - [CSA](#csa)
     - [DBS](#dbs)
     - [DASB](#dasb)
     - [DMATH](#dmath)
@@ -31,6 +32,7 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
     - [MOD](#mod)
     - [MTOP](#mtop)
     - [OOP](#oop)
+    - [PCP](#pcp)
     - [PMB](#pmb)
     - [PREN2](#pren2)
     - [ROBLAB](#roblab)
@@ -66,12 +68,21 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
     - [tschibu/hslu-cg-opengl](https://github.com/tschibu/hslu-cg-opengl) - exercises
 
 
+### CSA
+*C# in Action*
+
+- FS17
+    - [wjterry/hslu_csa](https://github.com/wtjerry/hslu_csa/tree/master) - project code
+
+
 ### DBS
 *Datenbanksysteme*
 
 - FS18
     - [timofurrer/dbs-project](https://github.com/timofurrer/dbs-project) - project code
     - [timofurrer/hslu-dbs](https://github.com/timofurrer/hslu-dbs) - exercises
+- HS17
+    - [wtjerry/sqlToCypher](https://github.com/wtjerry/sqlToCypher) - project code
 
 
 ### DASB
@@ -173,6 +184,13 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
     - [FabianGroeger96/oop_exercises](https://github.com/FabianGroeger96/oop_exercises) - exercises
 
 
+### PCP
+*Programming Concepts & Paradigms*
+
+- HS18
+    - [wtjerry/hslu_pcp](https://github.com/wtjerry/hslu_pcp) - exercises
+
+
 ### PMB
 *Projektmanagement Basics*
 
@@ -187,6 +205,9 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
     - [eddex/pren2](https://github.com/eddex/pren2) - complete project code
     - [eddex/signals-dataset](https://github.com/eddex/signals-dataset) - dataset with 5078 images
     - [FabianGroeger96/cnn-number-detection](https://github.com/FabianGroeger96/cnn-number-detection) - CNN for number detection
+- FS18
+    - [wtjerry/hslu_pren](https://github.com/wtjerry/hslu_pren) - complete project code
+    - [wtjerry/setupRaspberryPi](https://github.com/wtjerry/setupRaspberryPi) - RaspberryPi setup help
 
 
 ### ROBLAB
