@@ -63,6 +63,7 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
 *Computer Graphics*
 
 - HS18
+    - [BigSisl/hs18_cg_project](https://github.com/BigSisl/hs18_cg_project) - project code
     - [tschibu/hslu-cg-houdini](https://github.com/tschibu/hslu-cg-houdini) - project code
     - [tschibu/hslu-cg-math](https://github.com/tschibu/hslu-cg-math) - exercises
     - [tschibu/hslu-cg-opengl](https://github.com/tschibu/hslu-cg-opengl) - exercises
@@ -252,6 +253,8 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
 
 - FS19
     - [TheHuebschi/xml-webapp](https://github.com/TheHuebschi/xml-webapp) - project code
+- HS18
+    - [BigSisl/xml-wgcard](https://github.com/BigSisl/xml-wgcard) - project code
 - FS18
     - [eddex/xml-website](https://github.com/eddex/xml-website) - project code & documented pitfalls
     - [timofurrer/hslu-xml-technologies](https://github.com/timofurrer/hslu-xml-technologies) - project code
