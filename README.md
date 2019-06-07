@@ -203,7 +203,8 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
 
 - FS19
     - [eddex/pren2](https://github.com/eddex/pren2) - complete project code
-    - [eddex/signals-dataset](https://github.com/eddex/signals-dataset) - dataset with 5078 images
+    - [eddex/signals-dataset](https://github.com/eddex/signals-dataset) - dataset with 5077 images
+    - [eddex/tiny-yolov3-on-intel-neural-compute-stick-2](https://github.com/eddex/tiny-yolov3-on-intel-neural-compute-stick-2) - guide: YOLOv3 on Raspberry Pi & NCS2
     - [FabianGroeger96/cnn-number-detection](https://github.com/FabianGroeger96/cnn-number-detection) - CNN for number detection
 - FS18
     - [wtjerry/hslu_pren](https://github.com/wtjerry/hslu_pren) - complete project code
