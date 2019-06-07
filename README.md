@@ -72,7 +72,7 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
 *C# in Action*
 
 - FS17
-    - [wjterry/hslu_csa](https://github.com/wtjerry/hslu_csa/tree/master) - project code
+    - [wtjerry/hslu_csa](https://github.com/wtjerry/hslu_csa) - project code
 
 
 ### DBS
