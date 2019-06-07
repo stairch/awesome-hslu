@@ -120,6 +120,7 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
 - HS18
     - [eddex/flappy-game](https://github.com/eddex/flappy-game) - a game like flappy bird
     - [Jackle1996/NetworkGame](https://github.com/Jackle1996/NetworkGame) - local multiplayter 3rd person shooter
+    - [okaufman/GameDev-Project](https://github.com/okaufman/GameDev-Project) - 2D jump 'n' run
     
 
 ### IPCV
