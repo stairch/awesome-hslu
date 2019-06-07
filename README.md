@@ -36,6 +36,7 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
     - [PCP](#pcp)
     - [PMB](#pmb)
     - [PREN2](#pren2)
+    - [PTA](#pta)
     - [ROBLAB](#roblab)
     - [STAT](#stat)
     - [SWE](#swe)
@@ -83,6 +84,8 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
 ### DBS
 *Datenbanksysteme*
 
+- FS19
+    - [TedMANNERs/dbs-project](https://github.com/TedMANNERs/dbs-project)
 - FS18
     - [timofurrer/dbs-project](https://github.com/timofurrer/dbs-project) - project code
     - [timofurrer/hslu-dbs](https://github.com/timofurrer/hslu-dbs) - exercises
@@ -222,6 +225,13 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
 - FS18
     - [wtjerry/hslu_pren](https://github.com/wtjerry/hslu_pren) - complete project code
     - [wtjerry/setupRaspberryPi](https://github.com/wtjerry/setupRaspberryPi) - RaspberryPi setup help
+
+
+### PTA
+*Projekt und Teamarbeit*
+
+- HS17
+    - [TedMANNERs/multimedia-sharing](https://github.com/TedMANNERs/multimedia-sharing) - prototype
 
 
 ### ROBLAB
