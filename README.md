@@ -25,6 +25,7 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
     - [GAMEDEV](#gamedev)
     - [IPCV](#ipcv)
     - [IOS](#ios)
+    - [IOT](#iot)
     - [ISF](#isf)
     - [ITEO](#iteo)
     - [MC](#mc)
@@ -37,6 +38,7 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
     - [PREN2](#pren2)
     - [ROBLAB](#roblab)
     - [STAT](#stat)
+    - [SWE](#swe)
     - [VSK](#vsk)
     - [WEBTEC](#webtec)
     - [XML](#xml)
@@ -72,6 +74,8 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
 ### CSA
 *C# in Action*
 
+- HS17
+    - [daveschafer/CSA](https://github.com/daveschafer/CSA) - project code
 - FS17
     - [wtjerry/hslu_csa](https://github.com/wtjerry/hslu_csa) - project code
 
@@ -136,6 +140,13 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
 
 - HS18
     - [FabianGroeger96/ios_exercises](https://github.com/FabianGroeger96/ios_exercises) - exercises
+
+
+### IOT
+*Internet of Things*
+
+- HS18
+    - [daveschafer/IOT-HS18](https://github.com/daveschafer/IOT-HS18) - project code & documentation
 
 
 ### ISF
@@ -227,6 +238,13 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
 
 - FS19
     - [tschibu/hslu-stat-exercises](https://github.com/tschibu/hslu-stat-exercises) - exercises
+
+
+### SWE
+*Softwareentwicklung*
+
+- FS18
+    - [daveschafer/SWE-Project-FS18](https://github.com/daveschafer/SWE-Project-FS18) - project code
 
 
 ### VSK
