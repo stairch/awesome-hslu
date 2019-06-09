@@ -118,7 +118,7 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
 *Game Design*
 
 - FS19
-    - [eddex/GAMEDES-GamePaint](https://github.com/eddex/GAMEDES-GamePaint) - part of final project (MEP)
+    - [eddex/GAMEDES](https://github.com/eddex/GAMEDES) - part of final project (MEP)
 
 
 ### GAMEDEV
