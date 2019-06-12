@@ -8,6 +8,8 @@ This repository is inspired by the [awesome-lists](https://github.com/sindresorh
     
 You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](CONTRIBUTING.md) guidelines to get started.
 
+Should this list be translated to German? 🤔 [Vote here!](https://github.com/eddex/awesome-hslu/issues/20)
+
 ## License ![license](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-2.png)
 This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for more info.
 
