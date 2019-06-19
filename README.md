@@ -19,8 +19,9 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
     - [AISO](#aiso)
     - [CG](#cg)
     - [CSA](#csa)
-    - [DBS](#dbs)
     - [DASB](#dasb)
+    - [DBS](#dbs)
+    - [DL4G](#dl4g)
     - [DMATH](#dmath)
     - [FKOM](#fkom)
     - [GAMEDES](#gamedes)
@@ -63,6 +64,11 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
 ### AISO
 *AI Search and Optimization*
 
+- FS19
+    - [amh38/Heuristic-Search](https://github.com/amh38/Heuristic-Search) - heuristic search exercises
+    - [amh38/Local-Search](https://github.com/amh38/Local-Search) - local search exercises
+    - [amh38/Systematic-Search](https://github.com/amh38/Systematic-Search) - systematic search exercises
+
 
 ### CG
 *Computer Graphics*
@@ -84,6 +90,13 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
     - [wtjerry/hslu_csa](https://github.com/wtjerry/hslu_csa) - project code
 
 
+### DASB
+*Data Science Basics*
+
+- HS18
+    - [tschibu/hslu-dasb-project](https://github.com/tschibu/hslu-dasb-project) - project code
+
+
 ### DBS
 *Datenbanksysteme*
 
@@ -96,12 +109,11 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
     - [wtjerry/sqlToCypher](https://github.com/wtjerry/sqlToCypher) - project code
 
 
-### DASB
-*Data Science Basics*
+### DL4G
+*Deep Learning for Games*
 
 - HS18
-    - [tschibu/hslu-dasb-project](https://github.com/tschibu/hslu-dasb-project) - project code
-
+    - [amh38/DL4G](https://github.com/amh38/DL4G) - demo project jass bot
 
 ### DMATH
 *Diskrete Mathematik*
@@ -287,6 +299,7 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
 - FS19
     - [TheHuebschi/xml-webapp](https://github.com/TheHuebschi/xml-webapp) - project code
 - HS18
+    - [amh38/XML](https://github.com/amh38/XML) - project code
     - [BigSisl/xml-wgcard](https://github.com/BigSisl/xml-wgcard) - project code
 - FS18
     - [eddex/xml-website](https://github.com/eddex/xml-website) - project code & documented pitfalls
