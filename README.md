@@ -1,17 +1,17 @@
 # Awesome-HSLU [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A collection of projects, exercises, summaries and more done at the Hochschlue Luzern: Informatik (HSLU) :mortar_board:
 
-This repository is inspired by the [awesome-lists](https://github.com/sindresorhus/awesome) project.
+Other recommendable sites:
+- [https://studentbox.ch](https://studentbox.ch/#!/category/1651/)
+- https://www.reddit.com/r/hslu/
+- https://stair.ch/links/
 
 ## Contributing
-:rotating_light: Are you an HSLU student and your repos are not in this list? Then please create an issue with the title '`add repos of @<username>`'!
+:rotating_light: Are you an HSLU student and your repos are not in this list? Then please create an [issue](https://github.com/eddex/awesome-hslu/issues/new) with a link to your profile and name it '`add repos of @<username>`'!
     
 You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](CONTRIBUTING.md) guidelines to get started.
 
 Should this list be translated to German? 🤔 [Vote here!](https://github.com/eddex/awesome-hslu/issues/20)
-
-## License ![license](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-2.png)
-This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for more info.
 
 ## Table of Contents
 - [HSLU Modules](#hslu-modules)
@@ -329,3 +329,7 @@ This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for 
 - [dev-jan/pachack_solution](https://github.com/dev-jan/pachack_solution) - winning bot of the event, written in Python
 - [fliiiix/hslu_18hs_stair_pachack_python](https://github.com/fliiiix/hslu_18hs_stair_pachack_python) - bot written in Python
 - [randombenj/packhack](https://github.com/randombenj/packhack) - bot written in Python
+
+
+## License ![license](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-2.png)
+This project is licensed under the WTFPL license. See [LICENSE](LICENSE.md) for more info.
