@@ -12,6 +12,7 @@ Should this list be translated to German? 🤔 [Vote here!](https://github.com/e
 - [HSLU Modules](#hslu-modules)
     - [AD](#ad)
     - [AISO](#aiso)
+    - [BA](#ba)
     - [CG](#cg)
     - [CSA](#csa)
     - [DASB](#dasb)
@@ -64,6 +65,13 @@ Should this list be translated to German? 🤔 [Vote here!](https://github.com/e
     - [amh38/Heuristic-Search](https://github.com/amh38/Heuristic-Search) - heuristic search exercises
     - [amh38/Local-Search](https://github.com/amh38/Local-Search) - local search exercises
     - [amh38/Systematic-Search](https://github.com/amh38/Systematic-Search) - systematic search exercises
+
+
+### BA
+*Bachelorarbeit*
+
+- FS19
+    - [HSLU-BaumannWicki/BA-Dokumentation-Template](https://github.com/HSLU-BaumannWicki/BA-Dokumentation-Template) - LaTeX Template for BA
 
 
 ### CG
