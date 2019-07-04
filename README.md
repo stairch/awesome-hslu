@@ -41,11 +41,11 @@ Should this list be translated to German? 🤔 [Vote here!](https://github.com/e
     - [VSK](#vsk)
     - [WEBTEC](#webtec)
     - [XML](#xml)
-- [Other Projects](#other%20projects)
+- [Other Projects](#other-projects)
     - [HackZürich 2018](#hackzürich-2018)
     - [STAIR HackDay 2016](#stair-hackday-2016)
     - [STAIR HackDay 2018](#stair-hackday-2018)
-- [Useful Links](#useful%20links)
+- [Useful Links](#useful-links)
 
 ## HSLU Modules
 
