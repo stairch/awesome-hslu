@@ -1,11 +1,6 @@
 # Awesome-HSLU [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A collection of projects, exercises, summaries and more done at the Hochschlue Luzern: Informatik (HSLU) :mortar_board:
 
-Other recommendable sites:
-- [https://studentbox.ch](https://studentbox.ch/#!/category/1651/)
-- https://www.reddit.com/r/hslu/
-- https://stair.ch/links/
-
 ## Contributing
 :rotating_light: Are you an HSLU student and your repos are not in this list? Then please create an [issue](https://github.com/eddex/awesome-hslu/issues/new) with a link to your profile and name it '`add repos of @<username>`'!
     
@@ -46,10 +41,11 @@ Should this list be translated to German? 🤔 [Vote here!](https://github.com/e
     - [VSK](#vsk)
     - [WEBTEC](#webtec)
     - [XML](#xml)
-- [Other](#other)
+- [Other Projects](#other%20projects)
     - [HackZürich 2018](#hackzürich-2018)
     - [STAIR HackDay 2016](#stair-hackday-2016)
     - [STAIR HackDay 2018](#stair-hackday-2018)
+- [Useful Links](#useful%20links)
 
 ## HSLU Modules
 
@@ -306,7 +302,7 @@ Should this list be translated to German? 🤔 [Vote here!](https://github.com/e
     - [timofurrer/hslu-xml-technologies](https://github.com/timofurrer/hslu-xml-technologies) - project code
 
 
-## Other
+## Other Projects
 
 ### HackZürich 2018
 
@@ -329,6 +325,13 @@ Should this list be translated to German? 🤔 [Vote here!](https://github.com/e
 - [dev-jan/pachack_solution](https://github.com/dev-jan/pachack_solution) - winning bot of the event, written in Python
 - [fliiiix/hslu_18hs_stair_pachack_python](https://github.com/fliiiix/hslu_18hs_stair_pachack_python) - bot written in Python
 - [randombenj/packhack](https://github.com/randombenj/packhack) - bot written in Python
+
+
+## Useful Links
+
+- [https://studentbox.ch](https://studentbox.ch/#!/category/1651/)
+- https://www.reddit.com/r/hslu/
+- https://stair.ch/links/
 
 
 ## License ![license](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-2.png)
