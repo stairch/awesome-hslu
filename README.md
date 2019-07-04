@@ -19,6 +19,7 @@ Should this list be translated to German? 🤔 [Vote here!](https://github.com/e
     - [DBS](#dbs)
     - [DL4G](#dl4g)
     - [DMATH](#dmath)
+    - [EBV](#ebv)
     - [FKOM](#fkom)
     - [GAMEDES](#gamedes)
     - [GAMEDEV](#gamedev)
@@ -37,9 +38,11 @@ Should this list be translated to German? 🤔 [Vote here!](https://github.com/e
     - [PREN2](#pren2)
     - [PTA](#pta)
     - [ROBLAB](#roblab)
+    - [SPRG](#sprg)
     - [STAT](#stat)
     - [SWE](#swe)
     - [VSK](#vsk)
+    - [WEBLAB](#weblab)
     - [WEBTEC](#webtec)
     - [XML](#xml)
 - [Other Projects](#other-projects)
@@ -90,6 +93,7 @@ Should this list be translated to German? 🤔 [Vote here!](https://github.com/e
 
 - HS17
     - [daveschafer/CSA](https://github.com/daveschafer/CSA) - project code
+    - [RaphiHeer/CSA_Robot](https://github.com/RaphiHeer/CSA_Robot) - project code
 - FS17
     - [wtjerry/hslu_csa](https://github.com/wtjerry/hslu_csa) - project code
 
@@ -105,8 +109,9 @@ Should this list be translated to German? 🤔 [Vote here!](https://github.com/e
 *Datenbanksysteme*
 
 - FS19
-    - [TedMANNERs/dbs-project](https://github.com/TedMANNERs/dbs-project)
+    - [TedMANNERs/dbs-project](https://github.com/TedMANNERs/dbs-project) - project code
 - FS18
+    - [RaphiHeer/DBS18_ModulCommentator](https://github.com/RaphiHeer/DBS18_ModulCommentator) - project with RavenDB
     - [timofurrer/dbs-project](https://github.com/timofurrer/dbs-project) - project code
     - [timofurrer/hslu-dbs](https://github.com/timofurrer/hslu-dbs) - exercises
 - HS17
@@ -124,6 +129,14 @@ Should this list be translated to German? 🤔 [Vote here!](https://github.com/e
 
 - FS18
     - [FabianGroeger96/Informatik_2.Semester-2018](https://github.com/FabianGroeger96/Informatik_2.Semester-2018) - exercises    
+
+
+### EBV
+*Elektronische Bildverarbeitung (am Tech)*
+
+- FS18
+    - [RaphiHeer/EBV_Testat01_VehicleCounter](https://github.com/RaphiHeer/EBV_Testat01_VehicleCounter) - Testat 1
+    - [RaphiHeer/EBV_Testat02_AreaDetection](https://github.com/RaphiHeer/EBV_Testat02_AreaDetection) - Testat 2
 
 
 ### FKOM
@@ -191,11 +204,13 @@ Should this list be translated to German? 🤔 [Vote here!](https://github.com/e
 - FS19
     - [iareust/FS19_Microcontroller_C](https://github.com/iareust/FS19_Microcontroller_C) - exercises
 
+
 ### MOBPRO
 *Mobile Programming*
 - FS19
     - [eddex/mobpro](https://github.com/eddex/mobpro/) - exercises
     - [eddex/jumpcutter-android](https://github.com/eddex/jumpcutter-android) - project code
+    - [RaphiHeer/MobPro_MovieApp](https://github.com/RaphiHeer/MobPro_MovieApp) - Ionic excercise
 
 
 ### MOD
@@ -263,6 +278,13 @@ Should this list be translated to German? 🤔 [Vote here!](https://github.com/e
     - [tschibu/hslu-roblab-floorguide](https://github.com/tschibu/hslu-roblab-floorguide) - project code
 
 
+### SPRG
+*Sicheres Programmieren*
+
+- FS19
+    - [RaphiHeer/sprg-summary](https://github.com/RaphiHeer/sprg-summary) - summary for the software developement part
+
+
 ### STAT
 *Statistics for Data Science*
 
@@ -284,6 +306,13 @@ Should this list be translated to German? 🤔 [Vote here!](https://github.com/e
     - [FabianGroeger96/vsk_hs18](https://github.com/FabianGroeger96/vsk_hs18)
 
 
+### WEBLAB
+*Web Labor*
+
+- FS18
+    - [RaphiHeer/WebLab_Exercises](https://github.com/RaphiHeer/WebLab_Exercises) - excercises (probably not complete)
+
+
 ### WEBTEC
 *Web Technologies*
 
@@ -294,6 +323,7 @@ Should this list be translated to German? 🤔 [Vote here!](https://github.com/e
     - [tschibu/tschibu.github.io](https://github.com/tschibu/tschibu.github.io) - project code
 - HS16
     - [eddex/WebTec](https://github.com/eddex/WebTec) - project code
+    - [RaphiHeer/raphiheer.github.io](https://github.com/RaphiHeer/raphiheer.github.io) - project code
     - [timofurrer/hslu-webtec-testat](https://github.com/timofurrer/hslu-webtec-testat) - project code
 
 
