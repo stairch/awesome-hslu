@@ -34,7 +34,7 @@ def ckeck_for_new_repos_by_known_students():
     print("last checked: {}".format(last_checked))
 
     for user in update_check_data["students"]:
-        
+
         print("checking repos of {}...".format(user))
 
         # get all repos of a user and sort them by date for early stopping
@@ -45,7 +45,7 @@ def ckeck_for_new_repos_by_known_students():
             return
 
         repos = sorted(r.json(), key=operator.itemgetter("created_at"), reverse=True)
-        
+
         for repo in repos:
             if to_datetime(repo["created_at"]) > last_checked:
                 print(repo["html_url"])
