@@ -3,7 +3,7 @@ A collection of projects, exercises, summaries and more done at the Hochschlue L
 
 ## Contributing
 :rotating_light: Are you an HSLU student and your repos are not in this list? Then please create an [issue](https://github.com/eddex/awesome-hslu/issues/new) with a link to your profile and name it '`add repos of @<username>`'!
-    
+
 You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](CONTRIBUTING.md) guidelines to get started.
 
 ## Table of Contents
@@ -56,7 +56,7 @@ You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](C
 
 - FS18
     - [FabianGroeger96/ad_exercises](https://github.com/FabianGroeger96/ad_exercises) - exercises
-    - [FabianGroeger96/Informatik_2.Semester-2018](https://github.com/FabianGroeger96/Informatik_2.Semester-2018) - exercises    
+    - [FabianGroeger96/Informatik_2.Semester-2018](https://github.com/FabianGroeger96/Informatik_2.Semester-2018) - exercises
 
 
 ### AISO
@@ -66,6 +66,7 @@ You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](C
     - [amh38/Heuristic-Search](https://github.com/amh38/Heuristic-Search) - heuristic search exercises
     - [amh38/Local-Search](https://github.com/amh38/Local-Search) - local search exercises
     - [amh38/Systematic-Search](https://github.com/amh38/Systematic-Search) - systematic search exercises
+    - [timofurrer/hslu-aiso](https://github.com/timofurrer/hslu-aiso) - Search Optimization & Constraint Programming exercises
 
 
 ### BA
@@ -162,18 +163,19 @@ You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](C
     - [eddex/flappy-game](https://github.com/eddex/flappy-game) - a game like flappy bird
     - [Jackle1996/NetworkGame](https://github.com/Jackle1996/NetworkGame) - local multiplayter 3rd person shooter
     - [okaufman/GameDev-Project](https://github.com/okaufman/GameDev-Project) - 2D jump 'n' run
-    
+
 
 ### IPCV
 *Image Processing & Computer Vision*
 
 - FS19
     - [Jackle1996/IPCV-Modul](https://github.com/Jackle1996/IPCV-Modul) - exercises (incomplete)
+    - [timofurrer/hslu-ipcv](https://github.com/timofurrer/hslu-ipcv) - exercises
     - [tschibu/hslu-ipcv-exercises](https://github.com/tschibu/hslu-ipcv-exercises) - exercises
 
 
 ### IOS
-*Programmierern fürs IOS* 
+*Programmierern fürs IOS*
 
 - HS18
     - [FabianGroeger96/ios_exercises](https://github.com/FabianGroeger96/ios_exercises) - exercises
@@ -258,6 +260,8 @@ You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](C
     - [eddex/signals-dataset](https://github.com/eddex/signals-dataset) - dataset with 5077 images
     - [eddex/tiny-yolov3-on-intel-neural-compute-stick-2](https://github.com/eddex/tiny-yolov3-on-intel-neural-compute-stick-2) - guide: YOLOv3 on Raspberry Pi & NCS2
     - [FabianGroeger96/cnn-number-detection](https://github.com/FabianGroeger96/cnn-number-detection) - CNN for number detection
+    - [timofurrer/hslu-pren-digit-cnn](https://github.com/timofurrer/hslu-pren-digit-cnn) - Data Augmentation & CNN for number detection
+    - [timofurrer/hslu-pren-fs19](https://github.com/timofurrer/hslu-pren-fs19) - complete project code
     - [SevRyser/PREN](https://github.com/SevRyser/PREN) - Microcontroller Project
 - FS18
     - [wtjerry/hslu_pren](https://github.com/wtjerry/hslu_pren) - complete project code
