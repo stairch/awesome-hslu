@@ -6,8 +6,6 @@ A collection of projects, exercises, summaries and more done at the Hochschlue L
 
 You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](CONTRIBUTING.md) guidelines to get started.
 
-Should this list be translated to German? 🤔 [Vote here!](https://github.com/eddex/awesome-hslu/issues/20)
-
 ## Table of Contents
 - [HSLU Modules](#hslu-modules)
     - [AD](#ad)
@@ -128,8 +126,12 @@ Should this list be translated to German? 🤔 [Vote here!](https://github.com/e
 ### DMATH
 *Diskrete Mathematik*
 
+- FS19
+    - [fliiiix/math-magic-lib](https://github.com/fliiiix/math-magic-lib) - math library for the TI-NSPIRE CX CAS calculator
 - FS18
-    - [FabianGroeger96/Informatik_2.Semester-2018](https://github.com/FabianGroeger96/Informatik_2.Semester-2018) - exercises
+    - [FabianGroeger96/Informatik_2.Semester-2018](https://github.com/FabianGroeger96/Informatik_2.Semester-2018) - exercises  
+- FS17
+    - [hslu-students/dmath](https://github.com/hslu-students/dmath) - summary
 
 
 ### EBV
