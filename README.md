@@ -6,8 +6,6 @@ A collection of projects, exercises, summaries and more done at the Hochschlue L
     
 You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](CONTRIBUTING.md) guidelines to get started.
 
-Should this list be translated to German? 🤔 [Vote here!](https://github.com/eddex/awesome-hslu/issues/20)
-
 ## Table of Contents
 - [HSLU Modules](#hslu-modules)
     - [AD](#ad)
