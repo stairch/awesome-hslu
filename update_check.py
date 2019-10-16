@@ -44,14 +44,16 @@ def check_for_new_repos_by_known_students():
             print("ERROR: rate limit of 60 requests per hour reached. try again later.")
             return
 
-        repos = sorted(r.json(), key=operator.itemgetter("created_at"), reverse=True)
-
-        for repo in repos:
-            if to_datetime(repo["created_at"]) > last_checked:
-                print(repo["html_url"])
-            else:
-                # all not checked repos are older, stop
-                break
+        if r.status_code == 404:
+            print("ERROR: the user {} seems to be deleted from GitHub".format(user))
+        else:
+            repos = sorted(r.json(), key=operator.itemgetter("created_at"), reverse=True)
+            for repo in repos:
+                if to_datetime(repo["created_at"]) > last_checked:
+                    print(repo["html_url"])
+                else:
+                    # all not checked repos are older, stop
+                    break
 
     update_last_check()
 
