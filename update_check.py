@@ -28,7 +28,7 @@ def to_datetime(string_datetime):
     return datetime.strptime(string_datetime, GITHUB_DATETIME_FORMAT)
 
 
-def ckeck_for_new_repos_by_known_students():
+def check_for_new_repos_by_known_students():
     update_check_data = get_update_check_data()
     last_checked = to_datetime(update_check_data["last_check"])
     print("last checked: {}".format(last_checked))
@@ -57,4 +57,4 @@ def ckeck_for_new_repos_by_known_students():
 
 
 if __name__ == "__main__":
-    ckeck_for_new_repos_by_known_students()
+    check_for_new_repos_by_known_students()
