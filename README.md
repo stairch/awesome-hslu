@@ -29,6 +29,7 @@ You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](C
     - [MC](#mc)
     - [MOBPRO](#mobpro)
     - [MOD](#mod)
+    - [MOVK](#movk)
     - [MTOP](#mtop)
     - [OOP](#oop)
     - [PCP](#pcp)
@@ -223,6 +224,12 @@ You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](C
 - FS18
     - [FabianGroeger96/Informatik_2.Semester-2018](https://github.com/FabianGroeger96/Informatik_2.Semester-2018) - exercises
 
+### MOVK
+*Moderne Verfahren der Kryptographie*
+
+- HS18
+    - [KilnOfTheSecondFlame/MOVK_HS18_Exercises](https://github.com/KilnOfTheSecondFlame/MOVK_HS18_Exercises) - exercises
+
 
 ### MTOP
 *Mainframe Topics (Blockwoche)*
@@ -243,6 +250,7 @@ You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](C
 
 - HS18
     - [wtjerry/hslu_pcp](https://github.com/wtjerry/hslu_pcp) - exercises
+    - [KilnOfTheSecondFlame/PCP_HS18_Exercises](https://github.com/KilnOfTheSecondFlame/PCP_HS18_Exercises) - exercises
 
 
 ### PMB
@@ -294,6 +302,9 @@ You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](C
 ### STAT
 *Statistics for Data Science*
 
+- HS18
+    - [KilnOfTheSecondFlame/STAT_HS18_Exercises](https://github.com/KilnOfTheSecondFlame/STAT_HS18_Exercises) - exercises
+    - [KilnOfTheSecondFlame/python_statistics_reference_card](https://github.com/KilnOfTheSecondFlame/python_statistics_reference_card) - Python statistics cheat sheet
 - FS19
     - [tschibu/hslu-stat-exercises](https://github.com/tschibu/hslu-stat-exercises) - exercises
 
