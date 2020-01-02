@@ -130,7 +130,7 @@ You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](C
 - FS19
     - [fliiiix/math-magic-lib](https://github.com/fliiiix/math-magic-lib) - math library for the TI-NSPIRE CX CAS calculator
 - FS18
-    - [FabianGroeger96/Informatik_2.Semester-2018](https://github.com/FabianGroeger96/Informatik_2.Semester-2018) - exercises  
+    - [FabianGroeger96/Informatik_2.Semester-2018](https://github.com/FabianGroeger96/Informatik_2.Semester-2018) - exercises
 - FS17
     - [hslu-students/dmath](https://github.com/hslu-students/dmath) - summary
 
@@ -307,6 +307,8 @@ You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](C
     - [KilnOfTheSecondFlame/python_statistics_reference_card](https://github.com/KilnOfTheSecondFlame/python_statistics_reference_card) - Python statistics cheat sheet
 - FS19
     - [tschibu/hslu-stat-exercises](https://github.com/tschibu/hslu-stat-exercises) - exercises
+- HS19
+    - [randombenj/hslu-statistics](https://github.com/randombenj/hslu-statistics) - exercises
 
 
 ### SWE
