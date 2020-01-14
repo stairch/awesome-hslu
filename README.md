@@ -309,6 +309,7 @@ You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](C
     - [tschibu/hslu-stat-exercises](https://github.com/tschibu/hslu-stat-exercises) - exercises
 - HS19
     - [randombenj/hslu-statistics](https://github.com/randombenj/hslu-statistics) - exercises
+    - [randombenj/python-statistics-reference-card]( https://github.com/randombenj/python-statistics-reference-card ) - Updated Python cheat sheet
 
 
 ### SWE
