@@ -48,6 +48,8 @@ You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](C
     - [HackZürich 2018](#hackzürich-2018)
     - [STAIR HackDay 2016](#stair-hackday-2016)
     - [STAIR HackDay 2018](#stair-hackday-2018)
+    - [HSLU simple MEP results](#hslu-simple-mep-results)
+
 - [Useful Links](#useful-links)
 
 ## HSLU Modules
@@ -384,6 +386,16 @@ You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](C
 - [fliiiix/hslu_18hs_stair_pachack_python](https://github.com/fliiiix/hslu_18hs_stair_pachack_python) - bot written in Python
 - [randombenj/packhack](https://github.com/randombenj/packhack) - bot written in Python
 
+### HSLU simple MEP results
+_A browser add-on that extends the page 'Meine Anmeldungen' on the HSLU MyCampus website._
+
+[eddex/hslu-simple-mep-results](https://github.com/eddex/hslu-simple-mep-results)
+
+Features:
+- A simple table with all your modules, credits and grades
+- An overview of how many modules of each type have been done / are still needed.
+- An overview of your grades including grade distribution and average.
+- A chart to visualize your credit progress.
 
 ## Useful Links
 
