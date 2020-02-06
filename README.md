@@ -387,18 +387,15 @@ You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](C
 - [randombenj/packhack](https://github.com/randombenj/packhack) - bot written in Python
 
 ### HSLU simple MEP results
-https://github.com/eddex/hslu-simple-mep-results
+_A browser add-on that extends the page 'Meine Anmeldungen' on the HSLU MyCampus website._
 
-This browser add-on extends the page 'Meine Anmeldungen' on the HSLU MyCampus website.
+[eddex/hslu-simple-mep-results](https://github.com/eddex/hslu-simple-mep-results)
 
-The browser add-on extends the page with the following features:
+Features:
 - A simple table with all your modules, credits and grades
 - An overview of how many modules of each type have been done / are still needed.
 - An overview of your grades including grade distribution and average.
-A chart to visualize your credit progress.
-
-
-
+- A chart to visualize your credit progress.
 
 ## Useful Links
 
