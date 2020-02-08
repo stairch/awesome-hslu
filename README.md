@@ -82,6 +82,9 @@ You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](C
 ### CG
 *Computer Graphics*
 
+- HS19
+    - [timofurrer/hslu-cg-webgl](https://github.com/timofurrer/hslu-cg-webgl) - WebGL exercises and Step-by-Step solutions
+
 - HS18
     - [BigSisl/hslu-cg](https://github.com/BigSisl/hslu-cg) - exercises & [summary](https://github.com/BigSisl/hslu-cg/blob/master/summary/cg.pdf)
     - [BigSisl/hs18_cg_project](https://github.com/BigSisl/hs18_cg_project) - project code
