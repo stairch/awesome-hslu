@@ -234,7 +234,8 @@ You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](C
 
 - HS18
     - [KilnOfTheSecondFlame/MOVK_HS18_Exercises](https://github.com/KilnOfTheSecondFlame/MOVK_HS18_Exercises) - exercises
-
+- HS19
+    - [daveschafer/hslu-hs19-movk](https://github.com/daveschafer/hslu-hs19-movk) -exercises, summary
 
 ### MTOP
 *Mainframe Topics (Blockwoche)*
