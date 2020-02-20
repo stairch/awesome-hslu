@@ -337,6 +337,7 @@ You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](C
 
 - FS18
     - [RaphiHeer/WebLab_Exercises](https://github.com/RaphiHeer/WebLab_Exercises) - excercises (probably not complete)
+    - [daveschafer/hslu-hs19-weblab](https://github.com/daveschafer/hslu-hs19-weblab) - exercises (not complete)
 
 
 ### WEBTEC
