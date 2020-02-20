@@ -232,6 +232,8 @@ You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](C
 ### MOVK
 *Moderne Verfahren der Kryptographie*
 
+- HS19
+    - [daveschafer/hslu-hs19-movk](https://github.com/daveschafer/hslu-hs19-movk) -exercises, summary
 - HS18
     - [KilnOfTheSecondFlame/MOVK_HS18_Exercises](https://github.com/KilnOfTheSecondFlame/MOVK_HS18_Exercises) - exercises
 
@@ -335,6 +337,7 @@ You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](C
 *Web Labor*
 
 - FS18
+    - [daveschafer/hslu-hs19-weblab](https://github.com/daveschafer/hslu-hs19-weblab) - exercises (not complete)
     - [RaphiHeer/WebLab_Exercises](https://github.com/RaphiHeer/WebLab_Exercises) - excercises (probably not complete)
 
 
