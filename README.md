@@ -248,6 +248,8 @@ You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](C
 ### OOP
 *Object Oriented Programming*
 
+- FS20
+    - [AlterFalter/OOPExercises](https://github.com/AlterFalter/OOPExercises) - exercises
 - HS17
     - [FabianGroeger96/oop_exercises](https://github.com/FabianGroeger96/oop_exercises) - exercises
 
