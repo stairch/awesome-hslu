@@ -346,6 +346,8 @@ You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](C
 ### WEBTEC
 *Web Technologies*
 
+- FS20
+    - [AlterFalter/WebTechAbschlussarbeit](https://github.com/AlterFalter/WebTechAbschlussarbeit) - project code
 - HS17
     - [dev-jan/hslu-webtec](https://github.com/dev-jan/hslu-webtec) - project code
     - [FallenRoax/WebTec](https://github.com/FallenRoax/WebTec) - project code
