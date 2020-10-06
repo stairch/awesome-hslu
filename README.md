@@ -2,6 +2,9 @@
 A collection of projects, exercises, summaries and more done at the Hochschlue Luzern: Informatik (HSLU) :mortar_board:
 
 ## Contributing
+
+:warning: THIS REPOSITORY IS NOT MAINTAINED ANYMORE. PLEASE CONTACT ME IF YOU'RE INTERESTED IN KEEPING IT UP TO DATE.
+
 :rotating_light: Are you an HSLU student and your repos are not in this list? Then please create an [issue](https://github.com/eddex/awesome-hslu/issues/new) with a link to your profile and name it '`add repos of @<username>`'!
 
 You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](CONTRIBUTING.md) guidelines to get started.
