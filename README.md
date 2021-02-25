@@ -80,6 +80,8 @@ You're also welcome to edit this list yourself! Please read the [CONTRIBUTING](C
 
 - FS19
     - [HSLU-BaumannWicki/BA-Dokumentation-Template](https://github.com/HSLU-BaumannWicki/BA-Dokumentation-Template) - LaTeX Template for BA
+- FS20
+    - [FabianGroeger96/bachelor-thesis-hslu-presentation-template](https://github.com/FabianGroeger96/bachelor-thesis-hslu-presentation-template) - LaTeX Template for BA presentation
 
 
 ### CG
